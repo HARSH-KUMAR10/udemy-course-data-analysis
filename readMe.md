@@ -17,12 +17,12 @@ This dataset contains information about Udemy courses in the Web Development cat
 |subject|The subject of the Udemy course. (String)|
 
 ### Reading data
-<img src="./img/import_read.JPG" alt="data read using pandas"/>
+<img width="50%" src="./img/import_read.JPG" alt="data read using pandas"/>
 
 ### Data Frame information and description
-<img src="./img/dataframe_info.JPG" alt="information about data"/>
-<img src="./img/dataframe_describe.JPG" alt="data description"/>
+<img width="50%" src="./img/dataframe_info.JPG" alt="information about data"/>
+<img width="50%" src="./img/dataframe_describe.JPG" alt="data description"/>
 
 ### Unique Values of the dataset
-<img src="./img/unique_values.JPG" alt="Unique values of different fields in the dataset"/>
-<img src="./img/unique_values_2.JPG" alt="Unique values of different fields in the dataset"/>
+<img width="50%" src="./img/unique_values.JPG" alt="Unique values of different fields in the dataset"/>
+<img width="50%" src="./img/unique_values_2.JPG" alt="Unique values of different fields in the dataset"/>
