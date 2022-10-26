@@ -16,4 +16,13 @@ This dataset contains information about Udemy courses in the Web Development cat
 |published_timestamp|The timestamp of when the Udemy course was published. (Datetime)|
 |subject|The subject of the Udemy course. (String)|
 
-<img src="./img/import_read.JPG">
+### Reading data
+<img src="./img/import_read.JPG" alt="data read using pandas"/>
+
+### Data Frame information and description
+<img src="./img/dataframe_info.JPG" alt="information about data"/>
+<img src="./img/dataframe_describe.JPG" alt="data description"/>
+
+### Unique Values of the dataset
+<img src="./img/unique_values.JPG" alt="Unique values of different fields in the dataset"/>
+<img src="./img/unique_values_2.JPG" alt="Unique values of different fields in the dataset"/>
